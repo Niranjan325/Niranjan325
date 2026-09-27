@@ -1,16 +1,18 @@
-## Hi there 👋
+# Niranjan Vignesh Varma
 
-<!--
-**Niranjan325/Niranjan325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build evidence-grounded GenAI tools and practical ML demos. My focus is making model outputs inspectable: show sources, measure errors, and document what a small prototype cannot prove.
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[TraceMind](https://github.com/niranjanvigneshvarma3-max/TraceMind)** — evidence investigation workspace with hybrid retrieval, source-linked citations, and an interactive evidence stress test. Built with FastAPI, PostgreSQL/pgvector, Next.js, Docker, and local Ollama.
+- **[Spec → Test Matrix](https://github.com/Niranjan325/Requirement-to-Test-Matrix)** — local GenAI drafts acceptance tests; deterministic code checks requirement-ID coverage and invented references.
+- **[Handoff Completeness Studio](https://github.com/Niranjan325/Clinical-Handoff-Auditor)** — synthetic healthcare communication demo that maps notes into SBAR fields and checks quoted source text. Not for clinical use.
+- **[Factory Anomaly Triage](https://github.com/Niranjan325/Factory-Anomaly-Classifier)** — rare-event ML classifier evaluated on held-out machines, with precision–recall and inspection-threshold tradeoffs.
+
+Small companion evaluations: [Retrieval Benchmark](https://github.com/niranjanvigneshvarma3-max/Retrieval-Benchmark) and [Evidence Stress-Test Engine](https://github.com/niranjanvigneshvarma3-max/Evidence-Stress-Test-Engine).
+
+## Tools I use
+
+Python · FastAPI · scikit-learn · PostgreSQL/pgvector · Docker · Ollama · Next.js
+
+These are learning projects built with AI coding assistance. The READMEs include run steps, tests, measured results, and limitations. All bundled case data is synthetic.
